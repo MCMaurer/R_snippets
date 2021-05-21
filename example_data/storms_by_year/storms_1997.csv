@@ -1,0 +1,155 @@
+name,month,day,hour,lat,long,status,category,wind,pressure,ts_diameter,hu_diameter
+Ana,6,30,12,32,-77.2,tropical depression,-1,30,1013,NA,NA
+Ana,6,30,18,32,-76.6,tropical depression,-1,30,1011,NA,NA
+Ana,7,1,0,31.9,-76,tropical depression,-1,30,1009,NA,NA
+Ana,7,1,6,31.8,-75.4,tropical storm,0,35,1006,NA,NA
+Ana,7,1,12,31.7,-74.6,tropical storm,0,40,1004,NA,NA
+Ana,7,1,18,31.4,-73.8,tropical storm,0,40,1002,NA,NA
+Ana,7,2,0,31.4,-72.9,tropical storm,0,40,1000,NA,NA
+Ana,7,2,6,31.7,-72,tropical storm,0,35,1000,NA,NA
+Ana,7,2,12,32.1,-71.2,tropical storm,0,35,1000,NA,NA
+Ana,7,2,18,32.7,-70.5,tropical storm,0,35,1000,NA,NA
+Ana,7,3,0,33.5,-69.8,tropical storm,0,35,1001,NA,NA
+Ana,7,3,6,34.4,-69.2,tropical storm,0,35,1001,NA,NA
+Ana,7,3,12,35.2,-68.4,tropical storm,0,35,1002,NA,NA
+Ana,7,3,18,36.1,-67.5,tropical depression,-1,30,1002,NA,NA
+Ana,7,4,0,36.9,-66.2,tropical depression,-1,25,1003,NA,NA
+Bill,7,11,6,30.4,-69.9,tropical depression,-1,30,1014,NA,NA
+Bill,7,11,12,31.8,-68.9,tropical storm,0,40,1013,NA,NA
+Bill,7,11,18,33.1,-67.6,tropical storm,0,45,1010,NA,NA
+Bill,7,12,0,34.7,-65.8,tropical storm,0,50,1005,NA,NA
+Bill,7,12,6,36.3,-63.6,tropical storm,0,60,995,NA,NA
+Bill,7,12,12,37.9,-61.1,hurricane,1,65,987,NA,NA
+Bill,7,12,15,38.8,-60,hurricane,1,65,986,NA,NA
+Bill,7,12,18,39.6,-58.4,hurricane,1,65,987,NA,NA
+Bill,7,13,0,41.6,-55.4,tropical storm,0,60,990,NA,NA
+Bill,7,13,6,44,-53,tropical storm,0,40,990,NA,NA
+Claudette,7,13,6,31.3,-73.3,tropical depression,-1,25,1011,NA,NA
+Claudette,7,13,12,31.6,-73.1,tropical depression,-1,30,1008,NA,NA
+Claudette,7,13,18,31.9,-73,tropical storm,0,40,1004,NA,NA
+Claudette,7,14,0,32.3,-73,tropical storm,0,40,1003,NA,NA
+Claudette,7,14,6,32.7,-72.9,tropical storm,0,40,1003,NA,NA
+Claudette,7,14,12,33.4,-72.7,tropical storm,0,40,1004,NA,NA
+Claudette,7,14,18,34,-72.6,tropical storm,0,40,1005,NA,NA
+Claudette,7,15,0,34.9,-71.8,tropical storm,0,35,1005,NA,NA
+Claudette,7,15,6,35.6,-70.9,tropical storm,0,35,1006,NA,NA
+Claudette,7,15,12,36.2,-69.3,tropical storm,0,40,1009,NA,NA
+Claudette,7,15,18,36.6,-67.2,tropical storm,0,35,1009,NA,NA
+Claudette,7,16,0,36.7,-64.9,tropical depression,-1,30,1009,NA,NA
+Claudette,7,16,6,36.6,-62.7,tropical storm,0,35,1006,NA,NA
+Claudette,7,16,12,36.3,-60.5,tropical storm,0,35,1007,NA,NA
+Danny,7,16,12,27.4,-92.6,tropical depression,-1,25,1013,NA,NA
+Danny,7,16,18,27.5,-92.5,tropical depression,-1,30,1013,NA,NA
+Danny,7,17,0,27.7,-92.3,tropical depression,-1,30,1011,NA,NA
+Danny,7,17,6,27.9,-92,tropical depression,-1,30,1007,NA,NA
+Danny,7,17,12,28.3,-91.4,tropical storm,0,40,1003,NA,NA
+Danny,7,17,18,28.6,-91,tropical storm,0,50,1002,NA,NA
+Danny,7,18,0,28.9,-90.2,tropical storm,0,55,997,NA,NA
+Danny,7,18,6,29.2,-89.9,hurricane,1,65,992,NA,NA
+Danny,7,18,9,29.3,-89.7,hurricane,1,65,989,NA,NA
+Danny,7,18,12,29.5,-89.4,hurricane,1,70,990,NA,NA
+Danny,7,18,18,29.7,-89,hurricane,1,70,988,NA,NA
+Danny,7,19,0,29.8,-88.4,hurricane,1,70,984,NA,NA
+Danny,7,19,6,30.1,-88.1,hurricane,1,65,987,NA,NA
+Danny,7,19,10,30.2,-88.1,hurricane,1,70,984,NA,NA
+Danny,7,19,12,30.3,-88,hurricane,1,70,984,NA,NA
+Danny,7,19,18,30.4,-87.9,hurricane,1,65,986,NA,NA
+Danny,7,20,0,30.3,-87.6,tropical storm,0,60,991,NA,NA
+Danny,7,20,6,30.4,-87.5,tropical storm,0,45,998,NA,NA
+Danny,7,20,12,30.6,-87.4,tropical storm,0,35,1001,NA,NA
+Danny,7,20,18,30.8,-87.4,tropical depression,-1,30,1004,NA,NA
+Danny,7,21,0,31,-87.5,tropical depression,-1,25,1006,NA,NA
+Danny,7,21,6,31.3,-87.6,tropical depression,-1,20,1009,NA,NA
+Danny,7,21,12,31.7,-87.6,tropical depression,-1,20,1010,NA,NA
+Danny,7,21,18,32.1,-87.2,tropical depression,-1,20,1011,NA,NA
+Danny,7,22,0,32.9,-87.1,tropical depression,-1,20,1011,NA,NA
+Danny,7,22,6,33.2,-86.8,tropical depression,-1,20,1012,NA,NA
+Danny,7,22,12,33.4,-86.6,tropical depression,-1,20,1013,NA,NA
+Danny,7,22,18,33.7,-86.3,tropical depression,-1,20,1013,NA,NA
+Danny,7,23,0,34,-86,tropical depression,-1,20,1012,NA,NA
+Danny,7,23,6,34.1,-85.2,tropical depression,-1,20,1012,NA,NA
+Danny,7,23,12,34.2,-84.5,tropical depression,-1,20,1012,NA,NA
+Danny,7,23,18,34.3,-83.7,tropical depression,-1,20,1012,NA,NA
+Danny,7,24,0,34.4,-82.4,tropical depression,-1,20,1012,NA,NA
+Danny,7,24,6,34.6,-80.7,tropical depression,-1,20,1010,NA,NA
+Danny,7,24,12,35.2,-79.2,tropical depression,-1,30,1004,NA,NA
+Danny,7,24,18,36.4,-76.7,tropical storm,0,40,1000,NA,NA
+Danny,7,25,0,37.5,-73.5,tropical storm,0,50,996,NA,NA
+Danny,7,25,6,38.6,-71.6,tropical storm,0,50,995,NA,NA
+Danny,7,25,12,40,-70.4,tropical storm,0,50,995,NA,NA
+Danny,7,25,18,40.7,-69.9,tropical storm,0,50,994,NA,NA
+Danny,7,26,0,40.7,-69.6,tropical storm,0,45,995,NA,NA
+AL061997,7,17,6,12,-51.5,tropical depression,-1,25,1009,NA,NA
+AL061997,7,17,12,12.5,-52.7,tropical depression,-1,30,1008,NA,NA
+AL061997,7,17,18,13,-54,tropical depression,-1,30,1009,NA,NA
+AL061997,7,18,0,13.6,-55.3,tropical depression,-1,30,1009,NA,NA
+AL061997,7,18,6,14.1,-56.6,tropical depression,-1,30,1011,NA,NA
+AL061997,7,18,12,14.6,-57.8,tropical depression,-1,30,1012,NA,NA
+AL061997,7,18,18,14.8,-58.9,tropical depression,-1,30,1013,NA,NA
+AL061997,7,19,0,15,-60,tropical depression,-1,25,1013,NA,NA
+Erika,9,3,6,10.9,-44.1,tropical depression,-1,30,1006,NA,NA
+Erika,9,3,12,11.5,-45.5,tropical depression,-1,30,1005,NA,NA
+Erika,9,3,18,12.3,-47.1,tropical storm,0,35,1004,NA,NA
+Erika,9,4,0,13.1,-48.5,tropical storm,0,40,1002,NA,NA
+Erika,9,4,6,13.9,-49.9,tropical storm,0,50,1001,NA,NA
+Erika,9,4,12,14.6,-51.7,tropical storm,0,55,1000,NA,NA
+Erika,9,4,18,15.2,-53.7,hurricane,1,65,999,NA,NA
+Erika,9,5,0,15.6,-55.3,hurricane,1,65,998,NA,NA
+Erika,9,5,6,16,-56.4,hurricane,1,65,997,NA,NA
+Erika,9,5,12,16.4,-57.4,hurricane,1,65,996,NA,NA
+Erika,9,5,18,17,-58.3,hurricane,1,65,990,NA,NA
+Erika,9,6,0,17.5,-59.2,hurricane,1,65,988,NA,NA
+Erika,9,6,6,18.1,-60,hurricane,1,70,986,NA,NA
+Erika,9,6,12,18.6,-60.9,hurricane,1,70,982,NA,NA
+Erika,9,6,18,19,-61.7,hurricane,1,75,980,NA,NA
+Erika,9,7,0,19.4,-62.4,hurricane,1,75,979,NA,NA
+Erika,9,7,6,19.7,-62.8,hurricane,1,75,978,NA,NA
+Erika,9,7,12,20.2,-63.1,hurricane,1,75,975,NA,NA
+Erika,9,7,18,20.6,-63.2,hurricane,2,90,970,NA,NA
+Erika,9,8,0,21.2,-63.2,hurricane,2,95,966,NA,NA
+Erika,9,8,6,21.8,-63.2,hurricane,3,100,961,NA,NA
+Erika,9,8,12,22.5,-62.9,hurricane,3,105,957,NA,NA
+Erika,9,8,18,23.2,-62.5,hurricane,3,110,952,NA,NA
+Erika,9,9,0,24.1,-62,hurricane,3,110,948,NA,NA
+Erika,9,9,6,25.2,-61.4,hurricane,3,110,946,NA,NA
+Erika,9,9,12,26.5,-60.8,hurricane,3,110,947,NA,NA
+Erika,9,9,18,27.9,-60.2,hurricane,3,110,951,NA,NA
+Erika,9,10,0,29.3,-59.6,hurricane,3,105,955,NA,NA
+Erika,9,10,6,30.8,-58.9,hurricane,3,100,960,NA,NA
+Erika,9,10,12,32.2,-58.3,hurricane,2,95,965,NA,NA
+Erika,9,10,18,33.6,-57.5,hurricane,2,90,970,NA,NA
+Erika,9,11,0,34.8,-56.4,hurricane,1,80,973,NA,NA
+Erika,9,11,6,35.7,-55.1,hurricane,1,75,977,NA,NA
+Erika,9,11,12,36.4,-53.6,hurricane,1,70,984,NA,NA
+Erika,9,11,18,37.1,-51.9,hurricane,1,65,988,NA,NA
+Erika,9,12,0,37.6,-49.9,tropical storm,0,60,990,NA,NA
+Erika,9,12,6,38,-48,tropical storm,0,55,994,NA,NA
+Erika,9,12,12,38.5,-46.2,tropical storm,0,55,995,NA,NA
+Erika,9,12,18,38.9,-44.9,tropical storm,0,50,995,NA,NA
+Erika,9,13,0,39,-44,tropical storm,0,45,995,NA,NA
+Erika,9,13,6,38.9,-43.2,tropical storm,0,45,995,NA,NA
+Erika,9,13,12,38.5,-42.3,tropical storm,0,45,995,NA,NA
+Erika,9,13,18,38.1,-41.3,tropical storm,0,45,995,NA,NA
+Erika,9,14,0,37.8,-40.2,tropical storm,0,45,995,NA,NA
+Erika,9,14,6,37.6,-39.1,tropical storm,0,50,992,NA,NA
+Erika,9,14,12,37.6,-37.9,tropical storm,0,55,989,NA,NA
+Erika,9,14,18,37.8,-36.5,tropical storm,0,55,987,NA,NA
+Erika,9,15,0,38.2,-35,tropical storm,0,60,984,NA,NA
+Erika,9,15,6,38.9,-33.4,tropical storm,0,55,984,NA,NA
+Erika,9,15,12,39.7,-31.7,tropical storm,0,50,983,NA,NA
+Erika,9,15,18,40.9,-29.9,tropical storm,0,50,984,NA,NA
+Fabian,10,4,18,24.2,-64.5,tropical depression,-1,25,1009,NA,NA
+Fabian,10,5,0,24.7,-64.3,tropical depression,-1,25,1009,NA,NA
+Fabian,10,5,6,25.2,-64,tropical depression,-1,25,1009,NA,NA
+Fabian,10,5,12,25.7,-63.5,tropical depression,-1,30,1007,NA,NA
+Fabian,10,5,18,26.3,-63.1,tropical storm,0,35,1005,NA,NA
+Fabian,10,6,0,26.8,-62.6,tropical storm,0,35,1005,NA,NA
+Fabian,10,6,6,27.2,-61.9,tropical storm,0,35,1005,NA,NA
+Fabian,10,6,12,27.7,-61.3,tropical storm,0,35,1005,NA,NA
+Fabian,10,6,18,28.2,-60.2,tropical storm,0,35,1005,NA,NA
+Fabian,10,7,0,28.8,-59.1,tropical storm,0,35,1005,NA,NA
+Fabian,10,7,6,29.2,-57.9,tropical storm,0,35,1005,NA,NA
+Fabian,10,7,12,29.5,-56.8,tropical storm,0,35,1004,NA,NA
+Fabian,10,7,18,29.1,-56,tropical storm,0,35,1005,NA,NA
+Fabian,10,8,0,28.6,-55,tropical storm,0,35,1005,NA,NA
+Fabian,10,8,6,28.4,-53.4,tropical storm,0,35,1005,NA,NA

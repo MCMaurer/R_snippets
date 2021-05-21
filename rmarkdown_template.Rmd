@@ -1,0 +1,14 @@
+---
+title: "RMarkdown Snippet"
+author: "Michael Culshaw-Maurer"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Packages
+
+```{r setup, include=FALSE}
+
+```
+
+# Demo

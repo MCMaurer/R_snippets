@@ -1,0 +1,53 @@
+name,month,day,hour,lat,long,status,category,wind,pressure,ts_diameter,hu_diameter
+Belle,8,6,6,26,-72.8,tropical depression,-1,25,1012,NA,NA
+Belle,8,6,12,26.3,-73,tropical depression,-1,25,1012,NA,NA
+Belle,8,6,18,26,-73.4,tropical depression,-1,30,1009,NA,NA
+Belle,8,7,0,25.6,-73.2,tropical storm,0,40,1005,NA,NA
+Belle,8,7,6,26,-73.2,tropical storm,0,45,1000,NA,NA
+Belle,8,7,12,26.2,-73.7,tropical storm,0,55,993,NA,NA
+Belle,8,7,18,26.6,-74.2,hurricane,1,70,985,NA,NA
+Belle,8,8,0,26.9,-74.6,hurricane,1,80,972,NA,NA
+Belle,8,8,6,27.4,-75.1,hurricane,2,90,962,NA,NA
+Belle,8,8,12,28.1,-75.1,hurricane,2,95,959,NA,NA
+Belle,8,8,18,29.5,-75.3,hurricane,3,100,958,NA,NA
+Belle,8,9,0,30.9,-75.3,hurricane,3,105,957,NA,NA
+Belle,8,9,6,32.5,-75.2,hurricane,3,105,959,NA,NA
+Belle,8,9,12,34.4,-74.7,hurricane,2,95,963,NA,NA
+Belle,8,9,18,36.6,-74.2,hurricane,2,90,970,NA,NA
+Belle,8,10,0,38.8,-73.8,hurricane,1,80,977,NA,NA
+Belle,8,10,6,41,-73.2,tropical storm,0,60,983,NA,NA
+Belle,8,10,12,42.6,-72.4,tropical storm,0,35,992,NA,NA
+Gloria,9,26,12,23,-58,tropical depression,-1,20,1009,NA,NA
+Gloria,9,26,18,23.7,-58.1,tropical depression,-1,20,1007,NA,NA
+Gloria,9,27,0,24.3,-58.2,tropical depression,-1,25,1005,NA,NA
+Gloria,9,27,6,24.9,-58.1,tropical depression,-1,30,1001,NA,NA
+Gloria,9,27,12,25.7,-58,tropical storm,0,35,997,NA,NA
+Gloria,9,27,18,26.3,-58,tropical storm,0,45,994,NA,NA
+Gloria,9,28,0,27,-58,tropical storm,0,55,993,NA,NA
+Gloria,9,28,6,27.5,-58.2,tropical storm,0,60,992,NA,NA
+Gloria,9,28,12,27.8,-58.6,tropical storm,0,60,992,NA,NA
+Gloria,9,28,18,28.2,-59,tropical storm,0,60,991,NA,NA
+Gloria,9,29,0,28.6,-59.5,tropical storm,0,60,988,NA,NA
+Gloria,9,29,6,29.1,-59.8,hurricane,1,65,984,NA,NA
+Gloria,9,29,12,29.7,-60.2,hurricane,1,65,979,NA,NA
+Gloria,9,29,18,30.2,-60.3,hurricane,1,70,973,NA,NA
+Gloria,9,30,0,31.1,-60.2,hurricane,1,80,970,NA,NA
+Gloria,9,30,6,32.2,-59.8,hurricane,2,85,971,NA,NA
+Gloria,9,30,12,33.1,-58.8,hurricane,2,90,977,NA,NA
+Gloria,9,30,18,34,-57.5,hurricane,2,90,981,NA,NA
+Gloria,10,1,0,34.7,-56.1,hurricane,2,90,985,NA,NA
+Gloria,10,1,6,35.3,-54.8,hurricane,2,85,988,NA,NA
+Gloria,10,1,12,35.7,-53.7,hurricane,1,80,990,NA,NA
+Gloria,10,1,18,36.1,-52.6,hurricane,1,75,992,NA,NA
+Gloria,10,2,0,36.4,-51.7,hurricane,1,70,993,NA,NA
+Gloria,10,2,6,36.6,-50.8,tropical storm,0,60,994,NA,NA
+Gloria,10,2,12,36.8,-49.9,tropical storm,0,60,995,NA,NA
+Gloria,10,2,18,36.9,-49,tropical storm,0,55,996,NA,NA
+Gloria,10,3,0,36.8,-48.3,tropical storm,0,50,997,NA,NA
+Gloria,10,3,6,36.4,-47.6,tropical storm,0,45,998,NA,NA
+Gloria,10,3,12,36.2,-46.9,tropical storm,0,40,999,NA,NA
+Gloria,10,3,18,35.8,-45.8,tropical storm,0,40,1001,NA,NA
+Gloria,10,4,0,35.7,-44.6,tropical storm,0,35,1002,NA,NA
+Gloria,10,4,6,36,-43,tropical depression,-1,30,1003,NA,NA
+Gloria,10,4,12,36.5,-41.4,tropical depression,-1,30,1005,NA,NA
+Gloria,10,4,18,37.4,-38.7,tropical depression,-1,30,1006,NA,NA

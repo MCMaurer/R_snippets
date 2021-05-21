@@ -1,0 +1,71 @@
+name,month,day,hour,lat,long,status,category,wind,pressure,ts_diameter,hu_diameter
+Andrew,6,6,0,29.7,-77.5,tropical storm,0,35,1002,NA,NA
+Andrew,6,6,6,30.2,-77.8,tropical storm,0,40,1003,NA,NA
+Andrew,6,6,12,30.7,-78,tropical storm,0,45,1005,NA,NA
+Andrew,6,6,18,31.4,-77.9,tropical storm,0,45,1004,NA,NA
+Andrew,6,7,0,31.9,-77.8,tropical storm,0,45,1003,NA,NA
+Andrew,6,7,6,32.8,-76.9,tropical storm,0,45,1001,NA,NA
+Andrew,6,7,12,33.6,-76,tropical storm,0,45,999,NA,NA
+Andrew,6,7,18,34.3,-75,tropical storm,0,45,1000,NA,NA
+Andrew,6,8,0,35.2,-73.9,tropical storm,0,45,1002,NA,NA
+Andrew,6,8,6,36.3,-72.7,tropical storm,0,45,1002,NA,NA
+Andrew,6,8,12,37.9,-71,tropical storm,0,40,1002,NA,NA
+Andrew,6,8,18,39.6,-68.9,tropical storm,0,35,1001,NA,NA
+Bonnie,6,23,18,25.6,-87.2,tropical depression,-1,25,1014,NA,NA
+Bonnie,6,24,0,25.7,-87.8,tropical depression,-1,25,1013,NA,NA
+Bonnie,6,24,6,26,-88.4,tropical depression,-1,25,1014,NA,NA
+Bonnie,6,24,12,26.4,-88.9,tropical depression,-1,30,1011,NA,NA
+Bonnie,6,24,18,26.6,-89.5,tropical storm,0,40,1006,NA,NA
+Bonnie,6,25,0,26.7,-90.3,tropical storm,0,45,1001,NA,NA
+Bonnie,6,25,6,26.8,-91,tropical storm,0,50,1002,NA,NA
+Bonnie,6,25,12,27.2,-91.7,tropical storm,0,55,997,NA,NA
+Bonnie,6,25,18,27.7,-92.2,hurricane,1,65,1001,NA,NA
+Bonnie,6,26,0,28.2,-92.9,hurricane,1,70,999,NA,NA
+Bonnie,6,26,6,29,-93.7,hurricane,1,75,995,NA,NA
+Bonnie,6,26,10,29.6,-94.2,hurricane,1,75,990,NA,NA
+Bonnie,6,26,12,29.9,-94.3,hurricane,1,65,992,NA,NA
+Bonnie,6,26,18,30.9,-94.7,tropical storm,0,35,1000,NA,NA
+Bonnie,6,27,0,31.8,-94.7,tropical depression,-1,30,1009,NA,NA
+Bonnie,6,27,6,32.8,-94.7,tropical depression,-1,25,1015,NA,NA
+Bonnie,6,27,12,33.9,-94.3,tropical depression,-1,20,1016,NA,NA
+Bonnie,6,27,18,34.8,-93.5,tropical depression,-1,20,1016,NA,NA
+Bonnie,6,28,0,35.6,-92.5,tropical depression,-1,15,1014,NA,NA
+Bonnie,6,28,6,36.5,-91.3,tropical depression,-1,10,1013,NA,NA
+Bonnie,6,28,12,37.2,-90,tropical depression,-1,10,1012,NA,NA
+Charley,8,15,12,32.2,-79,tropical depression,-1,30,1009,NA,NA
+Charley,8,15,18,32.2,-78.5,tropical storm,0,35,1007,NA,NA
+Charley,8,16,0,32.3,-78.1,tropical storm,0,40,1004,NA,NA
+Charley,8,16,6,32.4,-77.9,tropical storm,0,40,1002,NA,NA
+Charley,8,16,12,32.6,-77.6,tropical storm,0,45,999,NA,NA
+Charley,8,16,18,32.9,-77.4,tropical storm,0,50,997,NA,NA
+Charley,8,17,0,33.2,-77.1,tropical storm,0,55,995,NA,NA
+Charley,8,17,6,33.7,-76.9,tropical storm,0,60,993,NA,NA
+Charley,8,17,12,34.4,-76.6,hurricane,1,65,991,NA,NA
+Charley,8,17,14,34.7,-76.5,hurricane,1,65,990,NA,NA
+Charley,8,17,18,35.4,-76.2,hurricane,1,65,988,NA,NA
+Charley,8,18,0,36.5,-75.8,hurricane,1,70,987,NA,NA
+Charley,8,18,6,37.4,-75.2,hurricane,1,65,990,NA,NA
+Charley,8,18,12,38.2,-74.1,tropical storm,0,60,992,NA,NA
+Charley,8,18,18,39,-72.6,tropical storm,0,60,994,NA,NA
+Charley,8,19,0,39.7,-70.9,tropical storm,0,55,997,NA,NA
+Charley,8,19,6,40.4,-69.1,tropical storm,0,50,999,NA,NA
+Charley,8,19,12,40.9,-67.5,tropical storm,0,45,1000,NA,NA
+Charley,8,19,18,41.3,-65.8,tropical storm,0,45,1002,NA,NA
+Charley,8,20,0,41.5,-64,tropical storm,0,40,1003,NA,NA
+Charley,8,20,6,41.6,-62.5,tropical storm,0,40,1004,NA,NA
+Charley,8,20,12,41.7,-60.2,tropical storm,0,40,1005,NA,NA
+Charley,8,20,18,41.7,-58.4,tropical storm,0,40,1005,NA,NA
+Danielle,9,7,6,10.5,-52,tropical depression,-1,25,1008,NA,NA
+Danielle,9,7,12,11,-54,tropical depression,-1,30,1005,NA,NA
+Danielle,9,7,18,11.2,-55.8,tropical storm,0,35,1003,NA,NA
+Danielle,9,8,0,11.8,-57.5,tropical storm,0,45,1000,NA,NA
+Danielle,9,8,6,12.2,-59.4,tropical storm,0,50,1000,NA,NA
+Danielle,9,8,12,12.5,-61.2,tropical storm,0,50,1002,NA,NA
+Danielle,9,8,18,13,-63,tropical storm,0,50,1002,NA,NA
+Danielle,9,9,0,13.4,-64.8,tropical storm,0,45,1004,NA,NA
+Danielle,9,9,6,13.8,-66.5,tropical storm,0,40,1006,NA,NA
+Danielle,9,9,12,14,-68.5,tropical storm,0,35,1008,NA,NA
+Danielle,9,9,18,14.5,-70.5,tropical depression,-1,30,1010,NA,NA
+Danielle,9,10,0,14.8,-72.5,tropical depression,-1,30,1012,NA,NA
+Danielle,9,10,6,14.9,-75.5,tropical depression,-1,30,1012,NA,NA
+Danielle,9,10,12,14.8,-78.5,tropical depression,-1,30,1013,NA,NA
