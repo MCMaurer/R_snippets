@@ -33,4 +33,5 @@ d %>%
 d %>% 
   ggplot(aes(x = weight, y = bites, color = dom_rank)) +
   geom_point() +
+  geom_smooth(method = "lm") +
   facet_wrap(vars(group))
