@@ -24,7 +24,7 @@ attach(list(
   },
   
   library = function(package){
-    warning("you have several overdue books and your library card has been revoked")
+    warning("You have several overdue books and your library card has been revoked. Follow this link to reactivate: https://bit.ly/34hKSpu")
   }
 ), name = "JokeFunctions", warn.conflicts = FALSE)
 
