@@ -14,7 +14,7 @@ dir_ls(dir)
 # using map_dfr
 dir %>% 
   dir_ls(glob = "*.csv") %>% 
-  set_names(x = ., value = .) %>% 
+  set_names(.) %>% 
   map_dfr(read_csv, .id = "filename") %>% 
   mutate(year = path_file(filename) %>% 
            path_ext_remove() %>% 

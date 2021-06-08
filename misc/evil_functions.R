@@ -25,6 +25,10 @@ attach(list(
   
   library = function(package){
     warning("You have several overdue books and your library card has been revoked. Follow this link to reactivate: https://bit.ly/34hKSpu")
+  },
+  
+  `==` = function(a,b){
+    message("They look pretty close to me")
   }
 ), name = "JokeFunctions", warn.conflicts = FALSE)
 
@@ -37,3 +41,5 @@ x <- 3
 4 / 5
 
 library(tidyverse)
+
+4 == 4
