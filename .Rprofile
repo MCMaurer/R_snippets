@@ -1,5 +1,4 @@
 source("renv/activate.R")
-
 # remove this stuff if you just want to use renv
 if ("RSTUDIO" %in% names(Sys.getenv())){
 options(max.print = 999)

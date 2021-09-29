@@ -12,9 +12,9 @@ d <- tibble(group = letters[1:5],
             init_lambda = c(1, 2, 4, 8, 16)) %>% # each group gets a different initial lambda value, here they vary a lot
   expand_grid(dom_rank = c("dom", "mid", "sub")) %>% 
   mutate(lambda = case_when( # modify the lambda values slightly based on dominance rank
-    dom_rank == "dom" ~ init_lambda * runif(1, 3, 3.4),
-    dom_rank == "mid" ~ init_lambda * runif(1, 1.8, 2.3),
-    dom_rank == "sub" ~ init_lambda * runif(1, 1, 1.1)
+    dom_rank == "dom" ~ init_lambda + runif(1, 3, 3.4),
+    dom_rank == "mid" ~ init_lambda + runif(1, 1.8, 2.3),
+    dom_rank == "sub" ~ init_lambda + runif(1, 1, 1.1)
   )) %>% 
   group_by(group) %>% 
   slice_sample(n = sample(105:140, 1), replace = T) %>% # generate between 105 and 140 observations per group, with various dom_ranks

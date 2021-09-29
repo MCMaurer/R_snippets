@@ -7,6 +7,8 @@ library(tidybayes)
 # description -------------------------------------------------------------
 # tidybayes actually makes it kinda tricky to just do a halfeye plot of all your fixed beta params, which is something you wanna do pretty often
 
+# this is now implemented as a function MCMsBasics::beta_halfeye_plot()
+
 # example -----------------------------------------------------------------
 
 m1 <- brm(mpg ~ wt + (1|cyl), data = mtcars)

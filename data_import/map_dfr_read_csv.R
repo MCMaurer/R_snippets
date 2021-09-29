@@ -11,6 +11,15 @@ dir <- "example_data/storms_by_year/"
 
 dir_ls(dir)
 
+# read_ functions can now do this on their own!
+dir %>% 
+  dir_ls(glob = "*.csv") %>% 
+  read_csv(id = "filename") %>% 
+  mutate(year = path_file(filename) %>% 
+           path_ext_remove() %>% 
+           str_remove("storms_") %>% 
+           as.double())
+
 # using map_dfr
 dir %>% 
   dir_ls(glob = "*.csv") %>% 
@@ -30,7 +39,3 @@ dir %>%
            path_ext_remove() %>% 
            str_remove("storms_") %>% 
            as.double())
-  
-
-
-
