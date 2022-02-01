@@ -1,6 +1,7 @@
 # packages ----------------------------------------------------------------
 library(fs)
 library(tidyverse)
+library(vroom)
 
 # description -------------------------------------------------------------
 # read a bunch of CSVs into dataframe using the name of the file as an identifier
@@ -10,6 +11,15 @@ library(tidyverse)
 dir <- "example_data/storms_by_year/"
 
 dir_ls(dir)
+
+# vroom can do what read_csv does but even faster!
+dir %>% 
+  dir_ls(glob = "*.csv") %>% 
+  vroom(id = "filename") %>% 
+  mutate(year = path_file(filename) %>% 
+           path_ext_remove() %>% 
+           str_remove("storms_") %>% 
+           as.double())
 
 # read_ functions can now do this on their own!
 dir %>% 

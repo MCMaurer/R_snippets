@@ -16,5 +16,3 @@ read_csv(paste0(directory, "/mtcars.csv"),
 # specify a single column and set a default
 read_csv(paste0(directory, "/mtcars.csv"), 
          col_types = cols(vs = "l", .default = "d"))
-
-
