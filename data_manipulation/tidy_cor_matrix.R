@@ -14,7 +14,4 @@ pd %>%
   rownames_to_column() %>% 
   pivot_longer(cols = -rowname) %>% 
   filter(abs(value) > 0.75) %>% 
-  filter(rowname != name) %>%
-  rowwise() %>% 
-  mutate(myPairs = paste(sort(c(rowname, name), decreasing = TRUE), collapse = ", ")) %>% 
-  distinct(myPairs, .keep_all = T)
+  filter(rowname != name, rowname > name)
